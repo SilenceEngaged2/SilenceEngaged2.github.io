@@ -15,10 +15,6 @@
     <p>This site has been blocked by your network policy.</p>
     <p id="domain"></p>
   </div>
-  <script>
-    const params = new URLSearchParams(location.search);
-    const host = params.get("host");
-    if (host) document.getElementById("domain").textContent = "Domain: " + host;
-  </script>
+  <script src="script.js"></script>
 </body>
 </html>
