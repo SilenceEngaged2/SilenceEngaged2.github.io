@@ -1,4 +1,3 @@
-# SilenceEngaged2.github.io
 <!doctype html>
 <html>
 <head>
